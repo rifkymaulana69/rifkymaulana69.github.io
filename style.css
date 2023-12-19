@@ -315,7 +315,7 @@ body {
 }
 
 .rsvp h2 {
-    font-size: 4.5rem;
+    font-size: 4rem;
 }
 
 .rsvp p {
@@ -479,7 +479,7 @@ footer li {
 }
 
 /* handphone */
-@media (max-width: 576px) {
+@media (max-width: 425px) {
     html {
         font-size: 60%;
     }
