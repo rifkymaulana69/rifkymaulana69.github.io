@@ -18,6 +18,7 @@ Ini adalah proyek website pernikahan sederhana yang dapat Anda gunakan untuk per
    - Nama mempelai
    - Tanggal nikah
    - Tempat pernikahan (gunakan HTML dari Google Maps)
+   - sesuaikan juga responsive nya sesuai dengan ukuran layar handphone
 
 3. **Setting RSVP:**
 
